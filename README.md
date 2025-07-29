@@ -56,9 +56,13 @@
 ## 📸 Preview
 
 **Homepage** 
+
+
 <img width="584" height="432" alt="image" src="https://github.com/user-attachments/assets/dbc6f060-25c0-475b-86fb-9d600f0984a8" />
 
 **How It Works** 
+
+
 <img width="552" height="496" alt="image" src="https://github.com/user-attachments/assets/d99390e0-07d0-453d-8b0e-baa26ea04659" />
 <img width="540" height="497" alt="image" src="https://github.com/user-attachments/assets/d5221095-2bde-4f7c-8254-3913ed13c4a3" />
 <img width="528" height="493" alt="image" src="https://github.com/user-attachments/assets/f579db80-feb6-4ad8-9ac6-e887e5b2ad0b" />
