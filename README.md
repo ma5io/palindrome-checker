@@ -23,7 +23,7 @@
 3. The app will display whether it is or is not a palindrome  
 
 🧪 **Example**:  
-`A man, a plan, a canal. Panama` → ✅ *is a palindrome*
+`Level, Radar, Dad` → ✅ *is a palindrome*
 
 ---
 
@@ -42,6 +42,7 @@
 ├── styles.css     # CSS styling  
 └── script.js      # JavaScript logic
 ```
+---
 
 ## 📚 What I Learned
 
@@ -50,10 +51,21 @@
 - User input validation
 - Responsive design using CSS Flexbox
 
+---
+
 ## 📸 Preview
 
-**Homepage** <img width="584" height="432" alt="image" src="https://github.com/user-attachments/assets/dbc6f060-25c0-475b-86fb-9d600f0984a8" />
-**How It Works** <img width="555" height="497" alt="image" src="https://github.com/user-attachments/assets/9e861385-b7a4-40a5-ac9b-846c55b251e5" />  <img width="551" height="495" alt="image" src="https://github.com/user-attachments/assets/d73dce87-4153-42e8-85a9-ba9e94a2ba68" />
-<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/e5b79a9e-ec93-4605-8b0b-df035274dede" /> ![Uploading image.png…]()
+**Homepage** 
+<img width="584" height="432" alt="image" src="https://github.com/user-attachments/assets/dbc6f060-25c0-475b-86fb-9d600f0984a8" />
 
+**How It Works** 
+<img width="552" height="496" alt="image" src="https://github.com/user-attachments/assets/d99390e0-07d0-453d-8b0e-baa26ea04659" />
+<img width="540" height="497" alt="image" src="https://github.com/user-attachments/assets/d5221095-2bde-4f7c-8254-3913ed13c4a3" />
+<img width="528" height="493" alt="image" src="https://github.com/user-attachments/assets/f579db80-feb6-4ad8-9ac6-e887e5b2ad0b" />
 
+---
+
+📜 License
+This project does not have a license yet.
+
+---
