@@ -69,7 +69,7 @@
 
 ---
 
-📜 License
+## 📜 License
 This project does not have a license yet.
 
 ---
